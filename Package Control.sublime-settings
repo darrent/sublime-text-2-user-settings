@@ -5,6 +5,8 @@
 		"Alignment",
 		"AngularJS",
 		"BracketHighlighter",
+		"CoffeeCompile",
+		"CoffeeScript",
 		"CTags",
 		"Flashback",
 		"GitGutter",
