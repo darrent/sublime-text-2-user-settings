@@ -1,21 +1,36 @@
 {
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
 		"AdvancedNewFile",
 		"Alignment",
 		"AngularJS",
+		"AngularJS Snippets",
+		"AutoFileName",
 		"BracketHighlighter",
 		"CoffeeCompile",
 		"CoffeeScript",
+		"ColorPicker",
+		"CSScomb",
+		"CSScomb Alpha Sort",
 		"CTags",
 		"Flashback",
 		"GitGutter",
 		"HTML-CSS-JS Prettify",
+		"HTMLBeautify",
 		"JsFormat",
+		"JSHint",
+		"JSHint Gutter",
 		"Lucario Color Scheme",
 		"Markdown Preview",
 		"Package Control",
 		"Pretty JSON",
+		"Pylinter",
+		"Python PEP8 Autoformat",
+		"SublimeCodeIntel",
+		"SublimeLinter",
 		"Theme - Cobalt2",
 		"Tomorrow Color Schemes",
 		"Zen Tabs"
